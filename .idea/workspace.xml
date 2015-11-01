@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bae5526a-7b73-4ba5-aa6a-08a982ebf8c7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\JsonFileStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\JsonFileStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\web\HtmlUtil.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\web\HtmlUtil.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\lesson5\CalculatorTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\lesson5\CalculatorTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\ArrayStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\ArrayStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\SectionType.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\SectionType.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\SerializeFileStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\SerializeFileStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\XmlParser.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\XmlParser.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson06\FileMain.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson06\FileMain.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\Util.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\Util.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\MapStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\MapStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson5\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson5\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson01\SimpleCar.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson01\SimpleCar.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson01\RaceCar.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson01\RaceCar.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\SerializeFileStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\SerializeFileStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson03\MainArray.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson03\MainArray.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\SqlDateTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\SqlDateTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\SqlExecutor.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\SqlExecutor.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\MultiTextSection.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\MultiTextSection.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\ConcurrencyTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\ConcurrencyTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Section.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Section.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\AllStorageTests.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\AllStorageTests.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\ArrayStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\ArrayStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson5\Calculator.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson5\Calculator.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson01\AbstractCar.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson01\AbstractCar.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\XmlFileStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\XmlFileStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Resume.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Resume.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\AbstractStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\AbstractStorage.java" />
+      <change type="MOVED" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\WebAppException.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\WebAppException.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\LocalDateAdapter.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\LocalDateAdapter.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\FileStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\FileStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\AbstractStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\AbstractStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\SqlTransaction.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\SqlTransaction.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\ConnectionFactory.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\ConnectionFactory.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Link.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Link.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson06\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson06\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\DataStreamFileStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\DataStreamFileStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\SqlStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\SqlStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\MapStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\MapStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\DataStreamFileStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\DataStreamFileStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson01\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson01\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson03\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson03\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\SqlStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\SqlStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\WebAppConfig.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\WebAppConfig.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\Sql.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\sql\Sql.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\web\SectionHtmlType.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\web\SectionHtmlType.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\TextSection.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\TextSection.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\IStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\IStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson04\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson04\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\SynchronizedMapStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\SynchronizedMapStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson01\Car.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson01\Car.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson07\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson07\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\JsonFileStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\JsonFileStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson07\MainConcurrency.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson07\MainConcurrency.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\XmlFileStorageTest.java" afterPath="C:\Java\JavaPractice\src\webapp5\test\ru\javawebinar\webapp\storage\XmlFileStorageTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Organization.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\Organization.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\OrganizationSection.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\OrganizationSection.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson02\Main.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson02\Main.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\ContactType.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\model\ContactType.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\ConcurrentMapStorage.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\storage\ConcurrentMapStorage.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\web\ResumeServlet.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\web\ResumeServlet.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\lesson07\MailSum.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\lesson07\MailSum.java" />
+      <change type="MODIFICATION" beforePath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\JsonParser.java" afterPath="C:\Java\JavaPractice\src\webapp5\src\ru\javawebinar\webapp\util\JsonParser.java" />
+    </list>
+    <ignored path="JavaPractice.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaPractice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Resume.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Resume.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="1598">
+              <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+              <folding>
+                <element signature="e#1651#1652#0" expanded="true" />
+                <element signature="e#1692#1693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayStorage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/ArrayStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1496">
+              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1313#1314#0" expanded="true" />
+                <element signature="e#1813#1814#0" expanded="true" />
+                <element signature="e#1840#1841#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapStorage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/MapStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2295">
+              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#1169#1170#0" expanded="true" />
+                <element signature="e#1202#1203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebAppException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/alex/pol/WebAppException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4450262" vertical-offset="0" max-vertical-offset="782">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractStorage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/AbstractStorage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="1411">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding>
+                <element signature="e#2163#2164#0" expanded="true" />
+                <element signature="e#2219#2220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/webapp5" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/webapp5/src/lesson01/AbstractCar.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Achievment.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Section.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Achievement.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Education.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Experience.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Qualification.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Objective.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Resume.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Contact.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/webapp5/test/ru/javawebinar/webapp/storage/ConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/src/webapp5/src/ru/javawebinar/webapp/storage/DataStreamFileStorage.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Main.java" />
+        <option value="$PROJECT_DIR$/test/alex/pol/model/ExperienceTest.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/SectionType.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/ContactType.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Period.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/MyCalendar.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/MultiTextSection.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Link.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Organization.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/TextSection.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Section.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/OrganizationSection.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Contact.java" />
+        <option value="$PROJECT_DIR$/test/alex/pol/storage/ArrayStorageTest.java" />
+        <option value="$PROJECT_DIR$/test/alex/pol/storage/MapStorageException.java" />
+        <option value="$PROJECT_DIR$/test/alex/pol/storage/MapStorageTest.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/model/Resume.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/Main.java" />
+        <option value="$PROJECT_DIR$/test/alex/pol/storage/AbstractStorageTest.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/storage/IStorage.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/storage/AbstractStorage.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/storage/ArrayStorage.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/storage/MapStorage.java" />
+        <option value="$PROJECT_DIR$/src/alex/pol/WebAppException.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.intentionPowerPack" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Архивы/commons-lang3-3.4/commons-lang3-3.4.jar!/" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java\JavaPractice\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="webapp5.src.ru.javawebinar.webapp.storage" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="alex.pol.storage" />
+      <recent name="alex.pol.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MapStorageTest">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alex.pol.model.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPractice" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Period" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alex.pol.model.Period" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPractice" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alex.pol.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaPractice" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ArrayStorageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="alex.pol.storage" />
+      <option name="MAIN_CLASS_NAME" value="alex.pol.storage.ArrayStorageTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MapStorageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="alex.pol.storage" />
+      <option name="MAIN_CLASS_NAME" value="alex.pol.storage.MapStorageTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Period" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ArrayStorageTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MapStorageTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MapStorageTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ArrayStorageTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Period" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae5526a-7b73-4ba5-aa6a-08a982ebf8c7" name="Default" comment="" />
+      <created>1445013907981</created>
+      <option name="number" value="Default" />
+      <updated>1445013907981</updated>
+      <workItem from="1445013913736" duration="17805000" />
+      <workItem from="1445322945241" duration="5508000" />
+      <workItem from="1445328708363" duration="25895000" />
+      <workItem from="1445418847920" duration="1178000" />
+      <workItem from="1445793960887" duration="591000" />
+      <workItem from="1446060002470" duration="8766000" />
+      <workItem from="1446149506172" duration="31616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91359000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.318569" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30153322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23827533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25862068" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.318569" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30323678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23827533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25862068" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="resume" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Section.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/OrganizationSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="442">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/TextSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/MultiTextSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="408">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="476">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/ContactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="476">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Resume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/com/sun/imageio/stream/StreamCloser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="1870">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/webapp5.src.lesson01">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>webapp5.src.lesson01</OriginalElement>
+          <nodes>
+            <node x="" y="">webapp5.src.lesson01.Car</node>
+            <node x="" y="">webapp5.src.lesson01.AbstractCar</node>
+            <node x="" y="">webapp5.src.lesson01.RaceCar</node>
+            <node x="" y="">webapp5.src.lesson01.SimpleCar</node>
+            <node x="" y="">webapp5.src.lesson01.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="91.0" y="131.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/alex.pol">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>alex.pol</OriginalElement>
+          <nodes>
+            <node x="437.0" y="79.0">alex.pol.model.Qualification</node>
+            <node x="332.0" y="79.0">alex.pol.model.Education</node>
+            <node x="108.0" y="79.0">alex.pol.model.Achievement</node>
+            <node x="235.5" y="0.0">alex.pol.model.Section</node>
+            <node x="0.0" y="79.0">alex.pol.model.Experience</node>
+            <node x="230.0" y="79.0">alex.pol.model.Objective</node>
+            <node x="0.0" y="153.0">alex.pol.model.Resume</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="alex.pol.model.Objective" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="alex.pol.model.Education" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="374.5" y="59.0" />
+              <point x="285.2" y="59.0" />
+              <point x="14.199999999999989" y="14.5" />
+            </edge>
+            <edge source="alex.pol.model.Achievement" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="159.0" y="59.0" />
+              <point x="256.8" y="59.0" />
+              <point x="-14.199999999999989" y="14.5" />
+            </edge>
+            <edge source="alex.pol.model.Experience" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="44.0" y="49.0" />
+              <point x="242.6" y="49.0" />
+              <point x="-28.400000000000006" y="14.5" />
+            </edge>
+            <edge source="alex.pol.model.Qualification" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="487.0" y="49.0" />
+              <point x="299.4" y="49.0" />
+              <point x="28.399999999999977" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="57.0" y="168.0" />
+          <SelectedNodes>
+            <node>alex.pol.model.Experience</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="20536">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/com/sun/imageio/stream/StreamCloser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="181" max-vertical-offset="1870">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/SectionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/UUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5543" max-vertical-offset="7191">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15026#0" expanded="false" />
+            <element signature="e#6833#6834#0" expanded="false" />
+            <element signature="e#6868#6869#0" expanded="false" />
+            <element signature="e#7083#7084#0" expanded="false" />
+            <element signature="e#7117#7118#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6074" max-vertical-offset="40409">
+          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/text/ParsePosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1225" max-vertical-offset="1802">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28727" max-vertical-offset="58939">
+          <caret line="1769" column="0" selection-start-line="1769" selection-start-column="0" selection-end-line="1769" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5819672" vertical-offset="2177" max-vertical-offset="22168">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28688523" vertical-offset="6797" max-vertical-offset="16439">
+          <caret line="457" column="51" selection-start-line="457" selection-start-column="24" selection-end-line="457" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/MyCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Period.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="782">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="578">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/TextSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="510">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3142076" vertical-offset="2326" max-vertical-offset="12155">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/MultiTextSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64855075" vertical-offset="110" max-vertical-offset="493">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16592">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/TimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33224756" vertical-offset="5457" max-vertical-offset="15623">
+          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4540" max-vertical-offset="19771">
+          <caret line="304" column="9" selection-start-line="304" selection-start-column="9" selection-end-line="304" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5679" max-vertical-offset="39372">
+          <caret line="414" column="18" selection-start-line="414" selection-start-column="18" selection-end-line="414" selection-end-column="18" />
+          <folding>
+            <element signature="e#19296#19297#0" expanded="false" />
+            <element signature="e#19379#19380#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/alex/pol/storage/MapStorageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/alex.pol.model.Resume">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>alex.pol.model.Resume</OriginalElement>
+          <nodes>
+            <node x="11.5" y="79.0">alex.pol.model.Resume</node>
+            <node x="0.0" y="0.0">java.lang.Comparable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="alex.pol.model.Resume" target="java.lang.Comparable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-215.0" y="120.5" />
+          <SelectedNodes>
+            <node>alex.pol.model.Resume</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/alex.pol.model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>alex.pol.model</OriginalElement>
+          <nodes>
+            <node x="-162.51296829971182" y="252.80979827089334">alex.pol.model.Link</node>
+            <node x="304.40634005763684" y="66.78097982708933">alex.pol.model.TextSection</node>
+            <node x="0.0" y="153.0">alex.pol.model.MultiTextSection</node>
+            <node x="251.53314121037465" y="352.1700288184438">alex.pol.model.ContactType</node>
+            <node x="120.32853025936606" y="12.219020172910664">alex.pol.model.Section</node>
+            <node x="-262.70893371757927" y="150.02017291066284">alex.pol.model.Organization</node>
+            <node x="-118.5244956772334" y="88.77521613832853">alex.pol.model.OrganizationSection</node>
+            <node x="-354.4985590778098" y="340.6368876080692">alex.pol.model.MyCalendar</node>
+            <node x="-324.0749279538905" y="266.7867435158502">alex.pol.model.Period</node>
+            <node x="173.51008645533142" y="189.80691642651294">alex.pol.model.Resume</node>
+            <node x="119.0" y="301.0">alex.pol.model.Contact</node>
+            <node x="325.84149855907776" y="154.9077809798271">alex.pol.model.SectionType</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="alex.pol.model.Resume" target="alex.pol.model.Contact">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.Contact" target="alex.pol.model.ContactType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.Resume" target="alex.pol.model.Section">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.Organization" target="alex.pol.model.Link">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.OrganizationSection" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="69.5" y="54.0" />
+              <point x="119.75" y="54.0" />
+              <point x="-17.75" y="14.5" />
+            </edge>
+            <edge source="alex.pol.model.Period" target="alex.pol.model.MyCalendar">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.Section" target="alex.pol.model.SectionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.OrganizationSection" target="alex.pol.model.Organization">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.TextSection" target="alex.pol.model.Section">
+              <point x="0.0" y="-14.5" />
+              <point x="205.5" y="54.0" />
+              <point x="155.25" y="54.0" />
+              <point x="17.75" y="14.5" />
+            </edge>
+            <edge source="alex.pol.model.OrganizationSection" target="alex.pol.model.MultiTextSection">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="alex.pol.model.Organization" target="alex.pol.model.Period">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8183962264150944" x="-130.47118155619597" y="283.2564841498559" />
+          <SelectedNodes>
+            <node>alex.pol.model.TextSection</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Section.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/OrganizationSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0454545" vertical-offset="0" max-vertical-offset="561">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/ContactType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Organization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/alex/pol/storage/ArrayStorageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09090909" vertical-offset="0" max-vertical-offset="3366">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36936" max-vertical-offset="86853">
+          <caret line="2381" column="23" selection-start-line="2381" selection-start-column="23" selection-end-line="2381" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3718" max-vertical-offset="4454">
+          <caret line="263" column="26" selection-start-line="263" selection-start-column="26" selection-end-line="263" selection-end-column="26" />
+          <folding>
+            <element signature="e#5960#5961#0" expanded="true" />
+            <element signature="e#6014#6015#0" expanded="true" />
+            <element signature="e#8972#8973#0" expanded="true" />
+            <element signature="e#9006#9007#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk1.8.0_40/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="53188" max-vertical-offset="85442">
+          <caret line="3207" column="28" selection-start-line="3207" selection-start-column="28" selection-end-line="3207" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/alex/pol/storage/AbstractStorageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1049" max-vertical-offset="1802">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/IStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="493">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/model/Resume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1598">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+          <folding>
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1692#1693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/ArrayStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1496">
+          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1313#1314#0" expanded="true" />
+            <element signature="e#1813#1814#0" expanded="true" />
+            <element signature="e#1840#1841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/AbstractStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="1411">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#2163#2164#0" expanded="true" />
+            <element signature="e#2219#2220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/storage/MapStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="2295">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alex/pol/WebAppException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4450262" vertical-offset="0" max-vertical-offset="782">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaPractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-lang3-3.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
