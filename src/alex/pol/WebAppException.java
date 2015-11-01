@@ -8,7 +8,7 @@ import alex.pol.model.Resume;
 
 public class WebAppException extends RuntimeException {
     private Resume resume ;
-    private String uuid = null;
+    private String uuid ;
 
     public WebAppException(String message) {
         super(message);

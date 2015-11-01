@@ -146,10 +146,10 @@
         <entry file="file://$PROJECT_DIR$/src/alex/pol/WebAppException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.4450262" vertical-offset="0" max-vertical-offset="782">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
-                <element signature="e#781#782#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -646,12 +646,12 @@
       <workItem from="1445418847920" duration="1178000" />
       <workItem from="1445793960887" duration="591000" />
       <workItem from="1446060002470" duration="8766000" />
-      <workItem from="1446149506172" duration="31938000" />
+      <workItem from="1446149506172" duration="32297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91681000" />
+    <option name="totallyTimeSpent" value="92040000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1323,10 +1323,10 @@
     <entry file="file://$PROJECT_DIR$/src/alex/pol/WebAppException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4450262" vertical-offset="0" max-vertical-offset="782">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
           </folding>
         </state>
       </provider>
